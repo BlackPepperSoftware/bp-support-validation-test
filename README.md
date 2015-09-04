@@ -1,2 +1,4 @@
-# bp-support-validation-test
-Support for testing with Bean Validation.
+Black Pepper Support Validation Test
+====================================
+
+Support for testing with [Bean Validation](http://beanvalidation.org/).
